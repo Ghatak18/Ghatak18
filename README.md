@@ -21,57 +21,27 @@
 ---
 
 ### 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<div align="left">
+  <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="42" height="42" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="42" height="42" />
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="42" height="42" />
-  </a>
-  <a href="https://docs.microsoft.com/en-US/cpp/" target="_blank">
     <img src="https://skillicons.dev/icons?i=c" alt="C" title="C" width="42" height="42" />
-  </a>
-  <a href="https://go.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go" width="42" height="42" />
-  </a>
-  <br />
-  <a href="https://reactjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="42" height="42" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" width="42" height="42" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="42" height="42" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" width="42" height="42" />
-  </a>
-  <br />
-  <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="42" height="42" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="42" height="42" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" width="42" height="42" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="42" height="42" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="42" height="42" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="42" height="42" />
-  </a>
-</p>
-
+  </div>
+</div>
 ---
 
 ### 📊 GitHub Analytics
