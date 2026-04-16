@@ -6,7 +6,7 @@
 <h3 align="center">A humble & curious developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Problem+Solver;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=0891b2&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Back+End+Developer;Full+Stack+Developer;Problem+Solver;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=0891b2&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
