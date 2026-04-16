@@ -22,37 +22,29 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js" width="42" height="42" alt="JavaScript" title="JavaScript" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="42" height="42" alt="TypeScript" title="TypeScript" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" width="42" height="42" alt="Java" title="Java" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" width="42" height="42" alt="C" title="C" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=go" width="42" height="42" alt="Go" title="Go" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="42" height="42" alt="React" title="React" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=redux" width="42" height="42" alt="Redux" title="Redux" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42" alt="Node.js" title="Node.js" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" width="42" height="42" alt="Express" title="Express" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42" alt="MongoDB" title="MongoDB" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" width="42" height="42" alt="AWS" title="AWS" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" width="42" height="42" alt="Docker" title="Docker" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" width="42" height="42" alt="Linux" title="Linux" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="42" height="42" alt="Git" title="Git" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/><br/>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TypeScript"/><br/>TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/><br/>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C"/><br/>C</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=go" width="50" height="50" alt="Go"/><br/>Go</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/><br/>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="50" height="50" alt="Redux"/><br/>Redux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/><br/>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express"/><br/>Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL"/><br/>PostgreSQL</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/><br/>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS"/><br/>AWS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker"/><br/>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux"/><br/>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/><br/>Git</td>
+  </tr>
+</table>
 
 ---
 
@@ -80,7 +72,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ghatak18&repo=social_backend&theme=dark&bg_color=1c1917&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2" />
       </a>
     </td>
-  </tr>
+   </tr>
 </table>
 
 ---
